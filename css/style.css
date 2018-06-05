@@ -1,0 +1,10 @@
+div a {
+  color: red; }
+  div a:hover {
+    color: blue; }
+
+ul li {
+  color: blue; }
+
+div p {
+  font-size: 12px; }

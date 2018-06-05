@@ -1,0 +1,23 @@
+$red:red;
+$blue:blue;
+div{
+    a{
+        //可以这样注释，并不会编译到css里面
+        color: $red;
+        &:hover{
+            color: $blue;
+        }
+    }
+}
+ul{
+    li{
+       //蓝色
+       color: $blue;
+    }
+}
+
+div{
+	p{
+	font-size:12px;
+	}
+}
