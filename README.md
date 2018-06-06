@@ -29,6 +29,7 @@ gulp
 #任务多的时候，可以单独指定某个任务
 gulp sass
 就能看到css里文件更新了^_^
+<<<<<<< HEAD
 运行不成功 可以删除node_modules
 #安装
 npm install
@@ -36,3 +37,5 @@ npm install
 npm init -y
 #运行gulp
 gulp sass
+=======
+>>>>>>> c37e3c296a601ae79462505f692ec2f40c8ea56e

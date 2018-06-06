@@ -16,5 +16,13 @@
   "dependencies": {
     "gulp": "^3.9.1"
   },
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyx6666/gulp-scss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wyx6666/gulp-scss/issues"
+  },
+  "homepage": "https://github.com/wyx6666/gulp-scss#readme"
 }
